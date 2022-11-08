@@ -1,7 +1,7 @@
 (declare-project
   :name "totp-janet"
   :description ```TOTP Generation Library for Janet ```
-  :version "0.0.0")
+  :version "0.0.1")
 
 (declare-source
   :prefix "totp"
