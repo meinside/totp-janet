@@ -1,10 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## 0.0.1 - 2022-11-08
+## [0.0.1] - 2022-11-08
 - First release.
 
-## 0.0.0 - 2022-11-07
+## [0.0.0] - 2022-11-07
 - Created this project.
 
 [0.0.1]: https://github.com/meinside/totp-janet/compare/v0.0.0...v0.0.1
