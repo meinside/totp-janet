@@ -74,6 +74,7 @@ static void testTotp();
 
 /*---- Main program ----*/
 
+/*
 int main(int argc, char **argv) {
 	try {
 		if (argc == 1) {
@@ -93,6 +94,7 @@ int main(int argc, char **argv) {
 		return EXIT_FAILURE;
 	}
 }
+*/
 
 
 static vector<uint8_t> decodeBase32(const char *str) {
